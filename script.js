@@ -1,6 +1,6 @@
 function decimalToBinary(num) {
   //Write you code here
-   const s = n.toString(2);
+   const s = num.toString(2);
      
     return s;
 }
